@@ -1,16 +1,145 @@
-## Hi there 👋
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Priyansh Kumar</h1>
 
-<!--
-**Priyansh2100/Priyansh2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Backend Developer @ Paytm | Java | Spring Boot | Microservices | AWS | Docker | Kubernetes</h3>
 
-Here are some ideas to get you started:
+<div>
+  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+  
+  
+  
+</div>
+
+
+<!--- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan-->
+- 💻 Currently working on **scalable backend systems**  
+- 🌱 Learning **Cloud Native Architecture & Microservices**  
+- 💬 Ask me about **Java, Spring Boot, JSP, Servlets, Struts, AWS, Docker, Kubernetes**  
+- 📫 Reach me at: **priyanshcs21@gmail.com**  
+- ⚡ Fun fact: *I love building systems that can handle millions of requests smoothly* 🚀
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Let's Connect**  
+
+<p align="left">
+<a href="mailto:priyanshcs21@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyansh-kumar-4b6b67252/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Priyansh2109/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Priyansh2100" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/techpriyansh/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshiita07" height="30" width="40" /></a>
+
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**  
+
+### Programming Languages
+<p >
+  <img src="https://skillicons.dev/icons?i=c,java,spring,aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+
+### Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+### Dev Tools:
+<p >
+  <img src="https://skillicons.dev/icons?i=react,expressjs,nodejs,bootstrap,tailwind,postman,npm,pug,selenium,flask,flutter,spring" />
+</p>
+
+### Databases
+<p >
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
+</p>
+
+### Android App Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+</p>
+
+### Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,matlab,ps,autocad,aws,anaconda,linux,maven,pycharm,arduino,stackoverflow,ubuntu" />
+</p>
+
+
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyansh2100&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="akshiita07" /></p>
+
+<br>
+
+<br>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh2100&theme=highcontrast" alt="akshiita07" /></p> -->
+
+
+<br><br>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Priyansh2100&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="Priyansh2100" /></p> -->
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info**
+<details>
+  <summary>View Here</summary>
+  <br>
+  <!-- 50 days -->
+  <a href="https://www.linkedin.com/in/priyansh-kumar-4b6b67252/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="akshita50" height="200" width="200" />
+  </a>
+
+  <!-- 100 days -->
+  <a href="https://www.linkedin.com/in/priyansh-kumar-4b6b67252/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="akshita100"  height="200" width="200"/>
+  </a>
+  
+
+  <!-- 200 days -->
+  
+  <!-- 365 days -->
+  <a href="https://www.linkedin.com/in/priyansh-kumar-4b6b67252/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="akshita365"  height="200" width="200"/>
+  </a>
+
+  <br>
+
+  <img align="top" src="https://leetcard.jacoblin.cool/Priyansh2109?theme=dark&font=Nunito&ext=heatmap" />
+</details>
+
+<!-- <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>-->
+
+<!-- graph -->
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p> -->
+
+<br>
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1MnprbmVrYzZmYmExYXl3OGsyMDBkdXJxbzYwa3F6dWs4b2Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4LwJFSVKUsOLsZIbpj/giphy.gif" alt="Badge" width="30" height="30" /> **Badges**  
+
+<div align="left">
+  <a href="https://www.credly.com/badges/be5f2810-4fce-450d-97b9-b76f636fcf42">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">
+  </a>
+</div>
+
+<br>
+
+
+<div align="center">
+  
+  
+</div>
+
+<!--<p><a href="https://buymeacoffee.com/akshiita07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshita buy coffee" /></a></p><br><br>-->
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
+</p>
